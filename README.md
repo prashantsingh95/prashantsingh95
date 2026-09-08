@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="banner.svg" width="100%" alt="Prashant Kumar - IoT Engineer Banner" />
+</p>
+
 # Hi, I'm Prashant 👋
 
 **IoT Engineer & Founder @ Tech Burst Solutions LLP** — Building secure, scalable IoT infrastructure.

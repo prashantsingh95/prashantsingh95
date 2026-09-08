@@ -1,0 +1,46 @@
+<svg width="1280" height="320" viewBox="0 0 1280 320" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Prashant Kumar - IoT Engineer">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#0d1117"/>
+      <stop offset="50%" stop-color="#0f1b2d"/>
+      <stop offset="100%" stop-color="#122a4a"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#0e75b6"/>
+      <stop offset="100%" stop-color="#3fb1ff"/>
+    </linearGradient>
+    <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse">
+      <circle cx="20" cy="20" r="0.8" fill="#1f2a44" opacity="0.6"/>
+    </pattern>
+  </defs>
+  <rect width="1280" height="320" fill="url(#bg)" rx="16"/>
+  <rect width="1280" height="320" fill="url(#grid)" rx="16" opacity="0.5"/>
+  <rect x="0" y="0" width="6" height="320" fill="url(#accent)" rx="2"/>
+  <g opacity="0.18" stroke="#3fb1ff" stroke-width="1.2" fill="none">
+    <circle cx="980" cy="90" r="28"/><circle cx="980" cy="90" r="4" fill="#3fb1ff" stroke="none"/>
+    <circle cx="1100" cy="60" r="18"/><circle cx="1100" cy="60" r="3" fill="#3fb1ff" stroke="none"/>
+    <circle cx="1080" cy="150" r="42"/><circle cx="1080" cy="150" r="5" fill="#3fb1ff" stroke="none"/>
+    <circle cx="1000" cy="210" r="22"/><circle cx="1000" cy="210" r="3" fill="#3fb1ff" stroke="none"/>
+    <circle cx="1150" cy="220" r="14"/><circle cx="1150" cy="220" r="2.5" fill="#3fb1ff" stroke="none"/>
+    <line x1="980" y1="90" x2="1080" y2="150"/><line x1="1080" y1="150" x2="1100" y2="60"/>
+    <line x1="1080" y1="150" x2="1000" y2="210"/><line x1="1000" y1="210" x2="1150" y2="220"/>
+  </g>
+  <text x="48" y="82" font-family="'Segoe UI',Helvetica,Arial,sans-serif" font-size="46" font-weight="800" fill="#ffffff" letter-spacing="-0.5">Prashant Kumar</text>
+  <text x="48" y="112" font-family="'Segoe UI',Helvetica,Arial,sans-serif" font-size="16" font-weight="600" fill="#3fb1ff" letter-spacing="3.5">IOT ENGINEER  •  FOUNDER  •  TECH BURST SOLUTIONS LLP</text>
+  <rect x="48" y="132" width="520" height="2" fill="#1f324d" rx="1"/>
+  <rect x="48" y="132" width="120" height="2" fill="url(#accent)" rx="1"/>
+  <text x="48" y="162" font-family="'Segoe UI',Helvetica,Arial,sans-serif" font-size="15" font-weight="400" fill="#b8c7dd">Secure IoT Infrastructure  •  MQTT • TCP • Go • Python • Cloud Platforms</text>
+  <text x="48" y="184" font-family="'Segoe UI',Helvetica,Arial,sans-serif" font-size="13" font-weight="400" fill="#8aa0c2">Managing fleets of 100k+ gateways  •  OTA • Reverse-TLS Shell • Modbus/GPIO • Production-ready</text>
+  <g font-family="'Segoe UI',Helvetica,Arial,sans-serif" font-size="11.5" font-weight="600">
+    <rect x="48" y="210" width="150" height="28" rx="14" fill="#111927" stroke="#1e3a5f"/>
+    <text x="123" y="228" text-anchor="middle" fill="#c7d6ee">📍 New Delhi, India</text>
+    <rect x="210" y="210" width="170" height="28" rx="14" fill="#111927" stroke="#1e3a5f"/>
+    <text x="295" y="228" text-anchor="middle" fill="#c7d6ee">🌐 techburstsolutions.in</text>
+    <rect x="392" y="210" width="200" height="28" rx="14" fill="#0e75b6" opacity="0.95"/>
+    <text x="492" y="228" text-anchor="middle" fill="#ffffff">✉️ business@techburstsolutions.in</text>
+  </g>
+  <g>
+    <rect x="970" y="250" width="262" height="34" rx="8" fill="#0e1628" stroke="#1e3a5f" opacity="0.9"/>
+    <text x="1101" y="272" font-family="'Segoe UI',Helvetica,Arial,sans-serif" font-size="11" font-weight="600" fill="#8aa0c2" text-anchor="middle" letter-spacing="1.2">MANGO IOT  •  TESTLEDGER  •  IOT PLATFORMS</text>
+  </g>
+</svg>
