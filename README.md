@@ -1,4 +1,4 @@
-# Hi, I'm Prashant Kumar 👋
+# Hi, I'm Prashant 👋
 
 **IoT Engineer & Founder @ Tech Burst Solutions LLP** — Building secure, scalable IoT infrastructure.
 
