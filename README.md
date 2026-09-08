@@ -25,6 +25,7 @@
 | **[Mango IoT Gateway Platform](https://github.com/prashantsingh95/mango-iot-gateway-platform)** | Enterprise fleet management for **Raspberry Pi gateways**. Zero-touch provisioning, OTA firmware, reverse-TLS shell (no inbound ports), real-time telemetry. Scales to 100k+ devices. | `NestJS` `Next.js 15` `PostgreSQL` `Redis` `MQTT` `Cloudflare R2` |
 | **[Mango IoT Gateway Client](https://github.com/prashantsingh95/mango-iot-gateway-client)** | Lightweight Go agent that runs on each Pi. Handles MQTT telemetry, **Modbus/GPIO**, OTA and terminal relay. Single binary. | `Go` `MQTT` `Modbus` `Systemd` |
 | **[Razorpay Headless API](https://github.com/prashantsingh95/razor-pay-headless-payment)** | Headless `pay_id` generation service — FastAPI + Playwright Chromium, Docker & Render ready. | `FastAPI` `Playwright` `Docker` |
+| **[LLM-10M](https://github.com/prashantsingh95/llm-10m)** | Train your own 10M decoder LLM from scratch — 10.05M GPT-2 style, TinyStories, auto-train on Actions, FastAPI serving. | `PyTorch` `Transformers` `BPE` |
 
 ---
 
